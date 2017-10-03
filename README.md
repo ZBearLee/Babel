@@ -4,12 +4,13 @@
     
     
  **配置和运行**
- - 新建.babelrc配置文件
+ 新建.babelrc配置文件
  ```
 {
     "presets":["es2015"]
 }
 ```
+*node.js命令*
 ```
 npm init -y   //初始化
 npm i -g babel-core
